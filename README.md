@@ -1,0 +1,1 @@
+Run the bash script in your terminal/ git cli to rewrite your commit history with a new email.
